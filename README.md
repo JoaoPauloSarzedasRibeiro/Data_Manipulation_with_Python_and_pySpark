@@ -1,2 +1,2 @@
 # Data Analysis With Python
-Data analysis and interpretation using Python and other tools like Numpy, Pandas and Seaborn.
+Data analysis and manipulation using Python, pySpark and other tools like Numpy, Pandas and Seaborn.
